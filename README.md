@@ -11,18 +11,10 @@ This is the benchmark model for TRB AI Committees Open Data Challenge on pavemen
 ## <summary> HOW TO RUN </summary>
 
 ```bash
-$ git clone 'https://github.com/UM-Titan/TRBAIAC-PAVE.git'
-$ cd 'TRBAIAC-PAVE'
-$ open and run aiac_main.ipynb # google collaboratory is preffered
+$ git clone 'https://github.com/rezars9701/YAKOv5_Pavement-Crach-Classificaiotn.git'
+$ open and run Yalov5_V03.ipynb # google collaboratory is preffered
 ```
 
-## <summary> RULES </summary>
-We expect you to respect the spirit of the competition and do not cheat.
-* There is no restriction on the size of the team.
-* The use of external data is forbidden.
-* Manually annotating test datasets is forbidden.
-* Pre-trained models are allowed in the competition.
-* We encourage teams to share their source codes and trained models. Python Notebooks are desirable for sharing codes.
 
 ## Reference
 ## [The 1st Data Science for Pavements Challenge (arXiv 2022)](https://arxiv.org/abs/2206.04874)
