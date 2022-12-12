@@ -1,17 +1,11 @@
 # TRBAIAC-PAVE
 This is the benchmark model for TRB AI Committees Open Data Challenge on pavement distress detection and analysis. Top-down views of pavement image data containing 7 main distress types annotated with bounding boxes are provided (via aiac_main.ipynb). The repo also includes a tutorial on how to train, test models and submit results for evaluation. The modeling framework uses a deep convolutional neural network model with an architecture borrowed from YOLOV5.
 
-<div align="center">
-    <a>
-        <img src="https://github.com/UM-Titan/TRBAIAC-PAVE/blob/main/aiac.png" width="100%"/>
-    </a>
-    
-</div> 
 
 ## <summary> HOW TO RUN </summary>
 
 ```bash
-$ git clone 'https://github.com/rezars9701/YAKOv5_Pavement-Crach-Classificaiotn.git'
+$ git clone 'https://github.com/rezars9701/YALOv5_Pavement-Crack-Classificaiotn.git'
 $ open and run Yalov5_V03.ipynb # google collaboratory is preffered
 ```
 
