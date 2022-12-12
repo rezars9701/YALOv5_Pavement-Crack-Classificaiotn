@@ -1,5 +1,5 @@
 # TRBAIAC-PAVE
-This is the benchmark model for TRB AI Committees Open Data Challenge on pavement distress detection and analysis. Top-down views of pavement image data containing 7 main distress types annotated with bounding boxes are provided (via aiac_main.ipynb). The repo also includes a tutorial on how to train, test models and submit results for evaluation. The modeling framework uses a deep convolutional neural network model with an architecture borrowed from YOLOV5.
+This is the benchmark model for TRB AI Committees Open Data Challenge on pavement distress detection and analysis. The modeling framework uses a deep convolutional neural network model with an architecture borrowed from YOLOV5.
 
 
 ## <summary> HOW TO RUN </summary>
