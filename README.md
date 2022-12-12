@@ -1,4 +1,4 @@
-# TRBAIAC-PAVE
+# Pavement Crack Classification TRBAIAC-PAVE
 This is the benchmark model for TRB AI Committees Open Data Challenge on pavement distress detection and analysis. The modeling framework uses a deep convolutional neural network model with an architecture borrowed from YOLOV5.
 
 
